@@ -6,5 +6,5 @@ void main() {
   String lastName = 'salah';
   
   String fullName = firstName + ' ' + lastName;
-  print(fullName);  // Output: John Doe
+  print(fullName);  
 }
