@@ -10,13 +10,11 @@ void main() {
   };
   
   print('Initial countries: $countries');
-  print('');
   
   // Add Qatar
   countries['QA'] = 'Qatar';
   
   print('After adding Qatar: $countries');
-  print('');
   
   // Print the name of country with code EG
   print('Country with code EG: ${countries['EG']}');
